@@ -38,4 +38,4 @@
 
 ### 4. Выбранная книга
 
-Для ознакомления с технологией Elixir я выбрал книгу [Elixir In Action](./mterials/elixir-in-action-3rd-ed.pdf)
+Для ознакомления с технологией Elixir я выбрал книгу [Elixir In Action](./materials/elixir-in-action-3rd-ed.pdf)
